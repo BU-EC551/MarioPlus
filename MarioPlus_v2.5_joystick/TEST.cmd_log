@@ -1,0 +1,1347 @@
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -bm blockpiece.bmm -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -bm blockpiece.bmm -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -bm blockpiece.bmm -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -bm blockpiece.bmm -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST_preroute.twx TEST_map.ncd -o TEST_preroute.twr TEST.pcf -ucf C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST_preroute.twx TEST_map.ncd -o TEST_preroute.twr TEST.pcf -ucf C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST_preroute.twx TEST_map.ncd -o TEST_preroute.twr TEST.pcf -ucf C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST_preroute.twx TEST_map.ncd -o TEST_preroute.twr TEST.pcf -ucf C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST_preroute.twx TEST_map.ncd -o TEST_preroute.twr TEST.pcf -ucf C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST_preroute.twx TEST_map.ncd -o TEST_preroute.twr TEST.pcf -ucf C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST_preroute.twx TEST_map.ncd -o TEST_preroute.twr TEST.pcf -ucf C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 
+xst -intstyle ise -ifn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.xst" -ofn "C:/Users/toto/Downloads/PONG-master/TEST/TEST.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc C:/Users/toto/Downloads/PONG-master/PONG-master/pong_spartan6.ucf -p xc7a100t-csg324-3 TEST.ngc TEST.ngd  
+map -intstyle ise -p xc7a100t-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o TEST_map.ncd TEST.ngd TEST.pcf 
+par -w -intstyle ise -ol high -mt off TEST_map.ncd TEST.ncd TEST.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml TEST.twx TEST.ncd -o TEST.twr TEST.pcf 
+bitgen -intstyle ise -f TEST.ut TEST.ncd 

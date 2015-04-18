@@ -1,0 +1,8 @@
+verilog work "vga_bg.v"
+verilog work "ipcore_dir/DL.v"
+verilog work "../PONG-master/clk_pixel.v"
+verilog work "graph.v"
+verilog work "../PONG-master/vga_sync.v"
+verilog work "TEST.v"
+verilog work "testvga.v"
+verilog work "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"
