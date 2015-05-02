@@ -1,0 +1,63 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Fri Apr 17 17:25:19 2015
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "vsync" LOCATE = SITE "B12" LEVEL 1;
+COMP "up" LOCATE = SITE "V17" LEVEL 1;
+COMP "hero<1>" LOCATE = SITE "U16" LEVEL 1;
+COMP "hero<0>" LOCATE = SITE "U17" LEVEL 1;
+COMP "hsync" LOCATE = SITE "B11" LEVEL 1;
+COMP "b1<0>" LOCATE = SITE "P17" LEVEL 1;
+COMP "b1<1>" LOCATE = SITE "M17" LEVEL 1;
+COMP "rgb<11>" LOCATE = SITE "D8" LEVEL 1;
+COMP "rgb<10>" LOCATE = SITE "D7" LEVEL 1;
+COMP "rgb<0>" LOCATE = SITE "A3" LEVEL 1;
+COMP "rgb<1>" LOCATE = SITE "B4" LEVEL 1;
+COMP "rgb<2>" LOCATE = SITE "C5" LEVEL 1;
+COMP "rgb<3>" LOCATE = SITE "A4" LEVEL 1;
+COMP "rgb<4>" LOCATE = SITE "C6" LEVEL 1;
+COMP "rgb<5>" LOCATE = SITE "A5" LEVEL 1;
+COMP "rgb<6>" LOCATE = SITE "B6" LEVEL 1;
+COMP "rgb<7>" LOCATE = SITE "A6" LEVEL 1;
+COMP "rgb<8>" LOCATE = SITE "B7" LEVEL 1;
+COMP "rgb<9>" LOCATE = SITE "C7" LEVEL 1;
+COMP "effect" LOCATE = SITE "N17" LEVEL 1;
+COMP "clk" LOCATE = SITE "E3" LEVEL 1;
+COMP "b2<0>" LOCATE = SITE "M18" LEVEL 1;
+COMP "b2<1>" LOCATE = SITE "P18" LEVEL 1;
+COMP "LED<0>" LOCATE = SITE "H17" LEVEL 1;
+COMP "LED<1>" LOCATE = SITE "K15" LEVEL 1;
+COMP "LED<2>" LOCATE = SITE "J13" LEVEL 1;
+COMP "LED<3>" LOCATE = SITE "N14" LEVEL 1;
+COMP "LED<4>" LOCATE = SITE "R18" LEVEL 1;
+TIMEGRP sys_clk_pin = BEL "cc/temp" BEL "d1/m0/clk_1ms" BEL "d2/m0/clk_1ms"
+        BEL "d3/m0/clk_1ms" BEL "d4/m0/clk_1ms" BEL "d5/m0/clk_1ms" BEL
+        "d1/m0/cnt_0" BEL "d1/m0/cnt_1" BEL "d1/m0/cnt_2" BEL "d1/m0/cnt_3"
+        BEL "d1/m0/cnt_4" BEL "d1/m0/cnt_5" BEL "d1/m0/cnt_6" BEL
+        "d1/m0/cnt_7" BEL "d1/m0/cnt_8" BEL "d1/m0/cnt_9" BEL "d1/m0/cnt_10"
+        BEL "d1/m0/cnt_11" BEL "d1/m0/cnt_12" BEL "d1/m0/cnt_13" BEL
+        "d1/m0/cnt_14" BEL "d1/m0/cnt_15" BEL "d2/m0/cnt_0" BEL "d2/m0/cnt_1"
+        BEL "d2/m0/cnt_2" BEL "d2/m0/cnt_3" BEL "d2/m0/cnt_4" BEL
+        "d2/m0/cnt_5" BEL "d2/m0/cnt_6" BEL "d2/m0/cnt_7" BEL "d2/m0/cnt_8"
+        BEL "d2/m0/cnt_9" BEL "d2/m0/cnt_10" BEL "d2/m0/cnt_11" BEL
+        "d2/m0/cnt_12" BEL "d2/m0/cnt_13" BEL "d2/m0/cnt_14" BEL
+        "d2/m0/cnt_15" BEL "d3/m0/cnt_0" BEL "d3/m0/cnt_1" BEL "d3/m0/cnt_2"
+        BEL "d3/m0/cnt_3" BEL "d3/m0/cnt_4" BEL "d3/m0/cnt_5" BEL
+        "d3/m0/cnt_6" BEL "d3/m0/cnt_7" BEL "d3/m0/cnt_8" BEL "d3/m0/cnt_9"
+        BEL "d3/m0/cnt_10" BEL "d3/m0/cnt_11" BEL "d3/m0/cnt_12" BEL
+        "d3/m0/cnt_13" BEL "d3/m0/cnt_14" BEL "d3/m0/cnt_15" BEL "d4/m0/cnt_0"
+        BEL "d4/m0/cnt_1" BEL "d4/m0/cnt_2" BEL "d4/m0/cnt_3" BEL
+        "d4/m0/cnt_4" BEL "d4/m0/cnt_5" BEL "d4/m0/cnt_6" BEL "d4/m0/cnt_7"
+        BEL "d4/m0/cnt_8" BEL "d4/m0/cnt_9" BEL "d4/m0/cnt_10" BEL
+        "d4/m0/cnt_11" BEL "d4/m0/cnt_12" BEL "d4/m0/cnt_13" BEL
+        "d4/m0/cnt_14" BEL "d4/m0/cnt_15" BEL "d5/m0/cnt_0" BEL "d5/m0/cnt_1"
+        BEL "d5/m0/cnt_2" BEL "d5/m0/cnt_3" BEL "d5/m0/cnt_4" BEL
+        "d5/m0/cnt_5" BEL "d5/m0/cnt_6" BEL "d5/m0/cnt_7" BEL "d5/m0/cnt_8"
+        BEL "d5/m0/cnt_9" BEL "d5/m0/cnt_10" BEL "d5/m0/cnt_11" BEL
+        "d5/m0/cnt_12" BEL "d5/m0/cnt_13" BEL "d5/m0/cnt_14" BEL
+        "d5/m0/cnt_15" BEL "v1/clk0/cnt" BEL "v1/clk0/clk_pixel" BEL
+        "clk_BUFGP/BUFG";
+TS_sys_clk_pin = PERIOD TIMEGRP "sys_clk_pin" 100 MHz HIGH 50%;
+SCHEMATIC END;
+
